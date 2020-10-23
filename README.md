@@ -1,5 +1,6 @@
 # MoRTiSOnE
-<p align="center">
-  <h2>Una pagina web,con miles de hipervinculos pensado en lo psicodelico</h2>
+
+  <h2 align="center">Una pagina web,con miles de hipervinculos pensado en lo psicodelico</h2>
+  <p align="center">
 <img src="https://imgur.com/WvJSg66.png" title="CITTZ">
 </p>
