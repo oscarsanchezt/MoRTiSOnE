@@ -4,6 +4,7 @@
   
   <h2 align="center">Una pagina web,con miles de hipervinculos pensado en lo psicodelico</h2>
   <BR>
+  <img src="https://i.imgur.com/j1zjpKS.png">
   </div>
   <br>
   
@@ -14,7 +15,7 @@
   * 
   
   ## captura
-  <img src="https://i.imgur.com/j1zjpKS.png">
+ 
   <br>
   <p align="center">
 <img src="https://imgur.com/WvJSg66.png" title="CITTZ">
