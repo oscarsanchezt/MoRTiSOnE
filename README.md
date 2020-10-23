@@ -4,6 +4,8 @@
   
   <h2 align="center">Una pagina web,con miles de hipervinculos pensado en lo psicodelico</h2>
   <BR>
+  <h2 aling="center">A web page, with thousands of hyperlinks thought in the psychedelic</h2>
+  <br>
   <img src="https://i.imgur.com/j1zjpKS.png">
   </div>
   <br>
