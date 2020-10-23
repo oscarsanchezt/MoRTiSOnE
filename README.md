@@ -1,3 +1,3 @@
 # MoRTiSOnE
 
-<img src "https://i.imgur.com/WvJSg66.png"></img>
+<img src "https://imgur.com/WvJSg66"></img>
