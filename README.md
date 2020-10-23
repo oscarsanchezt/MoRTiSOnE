@@ -20,8 +20,9 @@
   
   ## Historia געשיכטע ইতিহাস keeb kwm történelem 01101000 01101001 01110011 01110100 01101111 01110010 01101001 01100001
   <br>
-``` bash
+  
 
+``` bash
 Интернет можно рассматривать как большую сеть, похожую на айсберг. Мы видим лишь небольшую его часть. Эта небольшая часть довольно велика, поскольку это весь контент, который может индексировать Google и другие поисковые системы. Но под этой поверхностью скрывается гораздо больше, чего мы обычно не видим, например глубокая сеть и темная сеть.
 
 Когда вы ищете что-то в Google, поисковая система находит все совпадения и показывает их вам. Но как насчет всего контента, который он не показывает? Все, что не индексируется и поэтому недоступно традиционными методами, не является недоступным. Вы можете получить доступ к определенным сайтам другими способами, как вы увидите.
@@ -31,9 +32,7 @@ Internet mozhno rassmatrivat' kak bol'shuyu set', pokhozhuyu na aysberg. My vidi
 
 Kogda vy ishchete chto-to v Google, poiskovaya sistema nakhodit vse sovpadeniya i pokazyvayet ikh vam. No kak naschet vsego kontenta, kotoryy on ne pokazyvayet? Vse, chto ne indeksiruyetsya i poetomu nedostupno traditsionnymi metodami, ne yavlyayetsya nedostupnym. Vy mozhete poluchit' dostup k opredelennym saytam drugimi sposobami, kak vy uvidite.
 
-Yeshche odno sravneniye - uvidet' Internet, kak yesli by on byl lukom. V pervykh sloyakh, kotoryye yavlyayutsya dostupnymi, nakhodyatsya vidimyye veb-stranitsy. Sleduyushchiye urovni - eto te, na kotorykh khranyatsya uslugi, zashchishchennyye uchetnymi dannymi, bazami dannykh ili saytami, dostupnymi tol'ko pri nalichii pryamoy ssylki, poskol'ku oni ne indeksiruyutsya obychnymi poiskovymi sistemami. Nakonets, boleye glubokiye sloi trebuyut dostupa k nim v spetsial'nykh brauzerakh.
-  
-```
+Yeshche odno sravneniye - uvidet' Internet, kak yesli by on byl lukom. V pervykh sloyakh, kotoryye yavlyayutsya dostupnymi, nakhodyatsya vidimyye veb-stranitsy. Sleduyushchiye urovni - eto te, na kotorykh khranyatsya uslugi, zashchishchennyye uchetnymi dannymi, bazami dannykh ili saytami, dostupnymi tol'ko pri nalichii pryamoy ssylki, poskol'ku oni ne indeksiruyutsya obychnymi poiskovymi sistemami. Nakonets, boleye glubokiye sloi trebuyut dostupa k nim v spetsial'nykh brauzerakh. ```
 
 
 
