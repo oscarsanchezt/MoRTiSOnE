@@ -18,9 +18,5 @@
   
   > Vamos a jugar a un juego...
   
-  ## captura
- 
-  <br>
-  <p align="center">
-<img src="https://imgur.com/WvJSg66.png" title="CITTZ">
-</p>
+  ## Historia געשיכטע ইতিহাস keeb kwm történelem 01101000 01101001 01110011 01110100 01101111 01110010 01101001 01100001
+  
